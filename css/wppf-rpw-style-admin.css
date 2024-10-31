@@ -1,0 +1,10 @@
+@CHARSET "ISO-8859-1";
+
+
+.clear {clear:both;}
+
+#remove-button-div
+{
+	float: left;
+	margin-right: 10px;
+}
